@@ -1,7 +1,8 @@
 import requests
 import time
 
-BOT_TOKEN = "8648283171:AAGRNPmoZ2kOCQaflyzzqI4PZnr2NGY5mSs"
+BOT_TOKEN = "8648283171:AAHvCySURDBAZlcyozjsuJWhV8KS9"
+
 CHAT_ID = "6026637986"
 
 def send_message(message):
